@@ -5,4 +5,7 @@
     <string name="these_are_the_top_stories">These are the top stories:</string>
     <string name="tech_news_use_can_use">Tech news use can use:</string>
     <string name="cooking_tips">Cooking tips:</string>
+    <string name="tab_label1">Top Stories</string>
+    <string name="tab_label2">Tech News</string>
+    <string name="tab_label3">Cooking</string>
 </resources>
